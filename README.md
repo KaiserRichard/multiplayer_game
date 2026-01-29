@@ -1,30 +1,17 @@
 # Online Multiplayer Game (Python)
 
-This project is part of a Python Network Programming course.
+This repository documents my step-by-step learning process
+for building an online multiplayer game using Python.
 
-It demonstrates how to build the foundation of an online multiplayer game using:
+The project is developed incrementally following lecture order,
+starting from basic TCP client/server programming.
 
+## Technologies
+- Python 3
 - TCP sockets
 - Threading
-- Fixed-length headers
-- JSON-based communication
-- Server-authoritative architecture
-
-## Project Structure
-- `server.py` – Game server (no GUI)
-- `client.py` – Game client (pygame-based, later extended)
-
-## Concepts Covered
-- Client/server architecture
-- Multiplayer synchronization
-- Game state processing
-- Thread-per-client model
-- Custom TCP protocol design
+- JSON
+- Pygame (later stages)
 
 ## Status
-🚧 Blueprint stage — server and client structure implemented following lecture order.
-
-## How to Run
-1. Start the server:
-   ```bash
-   python server.py
+🚧 In progress — Lecture 01: TCP basics
