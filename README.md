@@ -12,6 +12,3 @@ starting from basic TCP client/server programming.
 - Threading
 - JSON
 - Pygame (later stages)
-
-## Status
-🚧 In progress — Lecture 01: TCP basics
